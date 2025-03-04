@@ -12,7 +12,7 @@ use Illuminate\Support\Facades\Validator;
  * version="1.0",
  * description="A simple CRUD API for managing products")
  * 
- * @OA\Server(url="http://localhost:8000")
+ * @OA\Server(url="https://valldev.fun/valldev.pat-repo/")
  * 
  * @OA\Tag(name="Products", description="API Endpoints for Products")
  */
